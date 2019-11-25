@@ -31,6 +31,6 @@ tensorboard==1.12.2
 tensorflow==2.0.0b1
 termcolor==1.1.0
 tf-estimator-nightly==1.14.0.dev2019060501
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 wincertstore==0.2
 wrapt==1.11.2
